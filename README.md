@@ -65,7 +65,7 @@ We welcome contributions! If you have suggestions for improvements or bug fixes,
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Contact
-Project Link: https://huggingface.co/Tonic/SureRAG
+Project Link: https://huggingface.co/spaces/Tonic/SureRAG
 
 **SureRAG: Where Content Meets Credibility.** 
 
